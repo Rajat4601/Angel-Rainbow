@@ -2,5 +2,6 @@ Programmer
 Coder
 hacker
 python
+Sql
 java
 there are the skill i'm gonna learn and gonna be master in it.
